@@ -20,5 +20,5 @@ Some python libraries
 ---
 
 ### Certification
-![](img/TopLearnerCertificate.png)
+https://github.com/ahsenkck/gaih-students-repo-example/blob/main/Introduction%20to%20Python%20Programming.png
 
